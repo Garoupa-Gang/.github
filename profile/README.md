@@ -6,7 +6,7 @@ Bem-vindo a Garoupa Gang! Somos uma DEV House formada em 2022 durante os semestr
 Tenho que fazer ainda
 
 
-## Integrantes da equipe Steam Ducks
+## Integrantes da equipe Garoupa Gang
 
 <div align="left">
 
